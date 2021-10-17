@@ -1,7 +1,7 @@
 from GitHub import ReadMe
 
 class Lixrs(ReadMe):
-    "/Dropout1337/Dropout1337/README.md"
+    "/lixrs/lixrs/README.md"
 
     def __init__(self):
         self.username = "lixrs"
