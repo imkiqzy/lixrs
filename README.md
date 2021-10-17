@@ -15,7 +15,7 @@ class Lixrs(ReadMe):
         ]
         self.location = "The Trap"
         self.age = "14, Born 21 August 2007"
-        self.occupation = "~~skid~~ Python Developer"
+        self.occupation = "Python Developer"
         self.projects = {
             "public": {
                   "total": 4,
