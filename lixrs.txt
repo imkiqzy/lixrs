@@ -1,0 +1,30 @@
+from GitHub import ReadMe
+
+class Dropout(ReadMe):
+    "/Dropout1337/Dropout1337/README.md"
+
+    def __init__(self):
+        self.username = "lixrs"
+        self.contacts = {
+            "Discord": "lixrs#0174",
+            "YouTube": https://www.youtube.com/channel/UCMLHOyL6iT-6NJfVYq64BQQ
+        }
+        self.alises = [
+            "Dropout",
+            "Dropout1337"
+        ]
+        self.location = "The Trap"
+        self.age = "14, Born 21 August 2007"
+        self.occupation = "~~skid~~ Coder"
+        self.projects = {
+            "public": {
+                  "total": 40,
+                  "location": "github.com/lixrs?tab=repositories"
+            },
+            "paid": {
+                "total": 0,
+                "earnings": 250,
+                "location": "unknown"
+            }
+        }
+        self.operating_system = "Arch, Linux"
