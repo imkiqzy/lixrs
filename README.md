@@ -1,7 +1,7 @@
 ## Welcome to my github. 
 
 <h2 align="center">lixrz</h2>
-<a href="https://github.com/xavierontop">
+<a href="https://github.com/lixrs">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lixrs" alt="Profile Views Count">
   </p>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/7zr">
-    <img src="https://discord.c99.nl/widget/theme-4/884903196340932659.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/528830251434901525.png"/>
      </a>
 </p>
 
