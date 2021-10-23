@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/7zr">
-    <img src="https://discord.c99.nl/widget/theme-4/528830251434901525.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/528830251434901525.png"/>
      </a>
 </p>
 
