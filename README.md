@@ -7,6 +7,13 @@
   </p>
 </a>
 
+
+<p align="center">
+  <a href="https://github.com/7zr">
+    <img src="https://discord.c99.nl/widget/theme-4/884903196340932659.png"/>
+     </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=xavierontop&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
